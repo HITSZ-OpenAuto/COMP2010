@@ -8,25 +8,39 @@
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
 
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
-![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
 ![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
 
 
-## 授课教师
+## 近世代数
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+本课程为 18、19 级领域限选课，20 级必修考试课，21 级专业任选课，占 2 学分。
 
-## 关于考试
+分数构成 = 40% 作业 + 60% 考试成绩
 
-## 学习建议
+### 关于教师
+
+- tll
+
+  很不错的老师，出题偏基础，但讲课很快。同时还是「集合论与图论」这门课的老师，出题风格可以参考。
+
+### 关于作业
+
+作业题都来自课本每一节后的习题，在 slide 中可见。
+
+> Note：2021 年教材网上的高等教育出版社的《近世代数》改版到第 4 版，但是 19 级上课用的教材还是第 3 版，因此买了新版书的同学可能出现作业题号对不上的情况。
+
+### 关于考试
+
+18、19 级考得很简单，作业能搞懂或者背下来就没问题了。
+
+选择填空基本上是概念题，计算题也是很基础的，证明题在课上有~~明示~~暗示过可能会考，因此可以提前复习。
+
+### Tips
+
+课程是很难的课程，涉及的概念都挺抽象的，但是过还是很容易的。
+有学长把疫情时代的雨课堂视频下载下来上传了B站，一并附上链接于此，希望同学们可以好好利用：[【直播回放】近世代数](https://www.bilibili.com/video/BV1GT4y1o7oc/)
