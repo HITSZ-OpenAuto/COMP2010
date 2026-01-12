@@ -1,0 +1,52 @@
+# 注意：成绩构成信息来源于徽章，未标明具体年份，因此归入 "0000" 年。
+# 注意：大部分信息的提交者未知，已按规则留空。
+course_name: "近世代数"
+course_code: "COMP2010"
+notices: |
+  2021 年教材网上的高等教育出版社的《近世代数》改版到第 4 版，但是 19 级上课用的教材还是第 3 版，因此买了新版书的同学可能出现作业题号对不上的情况。
+grading:
+  "0000": "作业(40%) + 期末考试(60%)"
+teachers:
+  - name: "唐琳琳"
+    reviews:
+      - content: |
+          很不错的老师，出题偏基础，但讲课很快。同时还是「集合论与图论」这门课的老师，出题风格可以参考。
+        submitter:
+          name: ""
+          link: ""
+textbooks:
+  - title: "近世代数"
+    author: ""
+    publisher: "高等教育出版社"
+    edition: "第 3 版 / 第 4 版"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+online_resources:
+  - title: "【直播回放】近世代数"
+    url: "https://www.bilibili.com/video/BV1GT4y1o7oc/"
+    description: "有学长把疫情时代的雨课堂视频下载下来上传了B站，希望同学们可以好好利用。"
+    submitter:
+      name: "学长"
+      link: ""
+about_course:
+  - content: "作业题都来自课本每一节后的习题，在 slide（网盘计划） 中可见。"
+    submitter:
+      name: ""
+      link: ""
+  - content: "课程是很难的课程，涉及的概念都挺抽象的，但是过还是很容易的。"
+    submitter:
+      name: ""
+      link: ""
+about_exam:
+  - content: |
+      18、19 级考得很简单，作业能搞懂或者背下来就没问题了。
+      选择填空基本上是概念题，计算题也是很基础的，证明题在课上有暗示过可能会考，因此可以提前复习。
+    submitter:
+      name: ""
+      link: ""
+study_advice: []
+schedule: []
+related_links: []
+misc: []
