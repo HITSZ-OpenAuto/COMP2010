@@ -1,4 +1,6 @@
 # COMP2010 - 近世代数
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
@@ -9,25 +11,41 @@
 ## 授课教师
 
 - 唐琳琳
+  <!-- TOML-ITEM: id="review-唐琳琳-1" -->
   - 很不错的老师，出题偏基础，但讲课很快。同时还是「集合论与图论」这门课的老师，出题风格可以参考。
 
 ## 教材
+<!-- TOML-SECTION: title="教材" -->
+
+<!-- TOML-ITEM: id="item-教材-1" -->
 
 - **近世代数**（高等教育出版社 / 第3版 / textbook）
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [【直播回放】近世代数](https://www.bilibili.com/video/BV1GT4y1o7oc/)：疫情时代的雨课堂视频回放，可用于复习。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 18、19 级考得很简单，作业能搞懂或者背下来就没问题了。
 选择填空基本上是概念题，计算题也是很基础的，证明题在课上有暗示过可能会考，因此可以提前复习。
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 课程是很难的课程，涉及的概念都挺抽象的，但是过还是很容易的。
 
 ## 作业说明
+<!-- TOML-SECTION: title="作业说明" -->
+
+<!-- TOML-ITEM: id="item-作业说明-1" -->
 
 作业题都来自课本每一节后的习题，在 slide（网盘计划）中可见。
