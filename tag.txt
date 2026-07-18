@@ -1,3 +1,0 @@
-category: 限选
-semester: 第二学年夏季
-name: 近世代数
