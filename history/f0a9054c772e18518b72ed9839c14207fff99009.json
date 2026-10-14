@@ -1,0 +1,107 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814751,
+    "hash": "b14e106e040e8a662e43f0a6d72470ef0d3a0807"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198252,
+    "hash": "4b9af30d17e5340e9fb0d6373217261390261ab8"
+  },
+  "README.md": {
+    "size": 1663,
+    "time": 1791961527,
+    "hash": "f0a9054c772e18518b72ed9839c14207fff99009"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198252,
+    "hash": "4b9af30d17e5340e9fb0d6373217261390261ab8"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198252,
+    "hash": "4b9af30d17e5340e9fb0d6373217261390261ab8"
+  },
+  "exams/2019级近世代数_回忆版_WuuTang.pdf": {
+    "size": 3302224,
+    "time": 1755971998,
+    "hash": "f594821f55a2ee0027e28917979378f7ae6236f3"
+  },
+  "exams/2020级近世代数_回忆版.pdf": {
+    "size": 154679,
+    "time": 1755971953,
+    "hash": "f0795dec26a63542ba9d6356b6413781e93a2fdf"
+  },
+  "exams/2021级近世代数_回忆版.pdf": {
+    "size": 1101956,
+    "time": 1755971998,
+    "hash": "f594821f55a2ee0027e28917979378f7ae6236f3"
+  },
+  "exams/readme.md": {
+    "size": 272,
+    "time": 1755971953,
+    "hash": "f0795dec26a63542ba9d6356b6413781e93a2fdf"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198252,
+    "hash": "4b9af30d17e5340e9fb0d6373217261390261ab8"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198252,
+    "hash": "4b9af30d17e5340e9fb0d6373217261390261ab8"
+  },
+  "notes/2020_JarrettYe/近世代数note.md": {
+    "size": 10903,
+    "time": 1755971953,
+    "hash": "f0795dec26a63542ba9d6356b6413781e93a2fdf"
+  },
+  "notes/2020_LoanCold/近世代数笔记.pdf": {
+    "size": 25119796,
+    "time": 1755971998,
+    "hash": "f594821f55a2ee0027e28917979378f7ae6236f3"
+  },
+  "notes/2021_Xyhi/README.md": {
+    "size": 243,
+    "time": 1755971953,
+    "hash": "f0795dec26a63542ba9d6356b6413781e93a2fdf"
+  },
+  "notes/2021_Xyhi/近世代数.xmind": {
+    "size": 19442457,
+    "time": 1755971953,
+    "hash": "f0795dec26a63542ba9d6356b6413781e93a2fdf"
+  },
+  "notes/2021_xyfJASON/README.md": {
+    "size": 389,
+    "time": 1755971953,
+    "hash": "f0795dec26a63542ba9d6356b6413781e93a2fdf"
+  },
+  "notes/2021_xyfJASON/近世代数笔记-1_compressed.pdf": {
+    "size": 21358794,
+    "time": 1755972666,
+    "hash": "71dbf2aea81c91991511e09997e10907f9d8fcd2"
+  },
+  "notes/2021_xyfJASON/近世代数笔记-2_compressed.pdf": {
+    "size": 24832769,
+    "time": 1755972690,
+    "hash": "17e27b33d9a66bc2f37654461f83f3c4d8fcb0cf"
+  },
+  "notes/2021_xyfJASON/近世代数笔记-3_compressed.pdf": {
+    "size": 21636655,
+    "time": 1755972729,
+    "hash": "6b03c8b31ddb3b17b39ae43090e1bbdeaeabdc7c"
+  },
+  "readme.toml": {
+    "size": 1487,
+    "time": 1773428126,
+    "hash": "58778344fb42b848bffe3acbde4dc61f49c3ec66"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198252,
+    "hash": "4b9af30d17e5340e9fb0d6373217261390261ab8"
+  }
+}
