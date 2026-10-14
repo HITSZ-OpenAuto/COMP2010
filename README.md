@@ -1,10 +1,5 @@
 # COMP2010 - 近世代数
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 2021 年教材网上的高等教育出版社的《近世代数》改版到第 4 版，但是 19 级上课用的教材还是第 3 版，因此买了新版书的同学可能出现作业题号对不上的情况。
 
